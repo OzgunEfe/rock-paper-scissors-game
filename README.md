@@ -1,12 +1,10 @@
-# rock-paper-scissors-game
+# Rock, Paper, Scissors
 
 I created a Rock, Paper, Scissors game using with JS prompt and alert features.
 
 I used **conditions** and **loop** properties.
 
-# Rock, Paper, Scissors
-
-In this activity, you will work with a partner to build a rock-paper-scissors game using only JavaScript.
+## About Game
 
 **Rules for rock-paper-scissors**
 
@@ -14,4 +12,4 @@ In this activity, you will work with a partner to build a rock-paper-scissors ga
 * Paper: wins against rock, loses to scissors, and ties against itself.
 * Scissors: wins against paper, loses to rock, and ties against itself.
 
-![RPS-Example-Picture](images/RPS-example.png)
+![RPS-Example-Picture](./Images/RPS-example.png)
