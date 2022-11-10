@@ -13,9 +13,9 @@ alert("You need to write 'r' for Rock, 'p' for Paper and 's' for Scissors.")
 for (; true;) {
     var compChoice = choices[Math.floor(Math.random() * choices.length)]
 
-    var userChoice = prompt("Please enter r, p or s");
+    var userChoice1 = prompt("Please enter r, p or s");
 
-    userChoice = userChoice.toLowerCase();
+    userChoice = userChoice1.toLowerCase();
 
     if (userChoice == "") {
         continue;
