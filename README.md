@@ -1,2 +1,5 @@
 # rock-paper-scissors-game
-Rock, Paper, Scissors Game
+
+I created a Rock, Paper, Scissors game using with JS prompt and alert features.
+
+I used **conditions** and **loop** properties.
